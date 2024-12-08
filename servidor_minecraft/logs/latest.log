@@ -568,3 +568,6 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown block
 [08Dec2024 16:57:11.371] [Server thread/INFO] [Jade/]: Syncing config to elijahs310 (fc07406a-fd79-3185-b35f-a518cc42c517)
 [08Dec2024 16:57:12.749] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from elijahs310
 [08Dec2024 16:58:37.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1307, l='ServerLevel[world]', x=682.06, y=-256.00, z=435.69] died, message: 'Unemployed was killed'
+[08Dec2024 17:14:09.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elijahs310 has reached the goal [Exorcism]
+[08Dec2024 17:14:52.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elijahs310 has completed the challenge [Deception!]
+[08Dec2024 17:15:11.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elijahs310 has completed the challenge [Home on The Ranch]
