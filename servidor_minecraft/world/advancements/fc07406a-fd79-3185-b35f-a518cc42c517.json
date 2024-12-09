@@ -1138,7 +1138,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-08 17:24:13 +0000",
       "rocky_shrubland": "2024-12-06 22:39:16 +0000",
+      "scrubland": "2024-12-08 17:24:21 +0000",
       "jade_cliffs": "2024-12-06 22:49:59 +0000",
       "mystic_grove": "2024-12-06 22:42:44 +0000",
       "mediterranean_forest": "2024-12-06 23:10:04 +0000"
@@ -3110,6 +3112,12 @@
     },
     "done": true
   },
+  "cnc:coyoteadvancement": {
+    "criteria": {
+      "coyoteadvancement_0": "2024-12-08 17:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-08 17:05:20 +0000"
@@ -3119,6 +3127,12 @@
   "cnc:bewitched_grey_wolf_advancement": {
     "criteria": {
       "bewitched_grey_wolf_advancement_0": "2024-12-08 17:14:52 +0000"
+    },
+    "done": true
+  },
+  "cnc:giant_boar_killed": {
+    "criteria": {
+      "giant_boar_killed_0": "2024-12-08 17:21:49 +0000"
     },
     "done": true
   },
@@ -3134,9 +3148,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-08 17:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-08 17:05:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 17:20:21 +0000"
     },
     "done": true
   },
@@ -3155,6 +3181,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-08 16:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-08 17:20:21 +0000"
     },
     "done": true
   },
@@ -3182,6 +3214,18 @@
     },
     "done": true
   },
+  "cnc:ringtailadvancement": {
+    "criteria": {
+      "ringtailadvancement_0": "2024-12-08 17:24:04 +0000"
+    },
+    "done": true
+  },
+  "cnc:greywolfadvancement": {
+    "criteria": {
+      "greywolfadvancement_0": "2024-12-08 17:25:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2024-12-08 17:05:20 +0000"
@@ -3203,6 +3247,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2024-12-08 17:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-08 17:20:21 +0000"
     },
     "done": true
   },
