@@ -6711,3 +6711,7 @@ Caused by: com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown block
 [09Dec2024 21:20:07.465] [Server thread/DEBUG] [mixin/]: Mixing MixinEnchantmentHelper from majruszlibrary-common.mixins.json into net.minecraft.world.item.enchantment.EnchantmentHelper
 [09Dec2024 21:25:07.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Dec2024 21:25:07.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 21:30:07.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 21:30:07.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 21:35:07.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 21:35:07.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
